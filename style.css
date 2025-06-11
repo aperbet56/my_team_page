@@ -88,8 +88,8 @@ header,
 
 .card {
     position: relative;
-    /* max-width: 100%;*/
-    margin: 0 16px 8px 0;
+    max-width: 100%;
+    margin: 0 16px 8px 5px;
 }
 
 .card,
@@ -111,7 +111,6 @@ header,
 .card__title {
     font-weight: 600;
     font-size: 16px;
-    line-height: 1.5;
     padding-top: 10px;
 }
 
@@ -159,7 +158,7 @@ header,
 
     .card,
     .card__image {
-        max-width: 320px;
+        max-width: 280px;
     }
 
     .card:nth-child(even) {
@@ -168,5 +167,28 @@ header,
 
     .card:nth-child(5) {
         margin-top: 0;
+    }
+}
+
+/**** Responsive design version mobile ****/
+
+@media screen and (max-width: 650px) {
+
+    body {
+        padding: 50px 12px;
+    }
+
+    .card,
+    .card__image {
+        max-width: 150px;
+    }
+
+    .card:nth-child(even) {
+        margin-top: 40px;
+    }
+
+    .card__title {
+        padding-top: 6px;
+        font-size: 14px;
     }
 }
