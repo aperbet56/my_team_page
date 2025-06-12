@@ -170,19 +170,6 @@ header,
     .description__text {
         max-width: none;
     }
-
-    /* .card,
-    .card__image {
-        max-width: 280px;
-    }*/
-
-    /* .card:nth-child(even) {
-        margin-top: 70px;
-    }
-
-    .card:nth-child(5) {
-        margin-top: 0;
-    }*/
 }
 
 /**** Responsive design version mobile ****/
@@ -192,12 +179,6 @@ header,
     body {
         padding: 50px 12px;
     }
-
-    /*.card,
-    .card__image {
-        max-width: 150px;
-    }*/
-
 
     .card {
         width: 40%;
