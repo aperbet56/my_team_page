@@ -1,5 +1,7 @@
 ## MY TEAM PAGE | DEV CHALLENGES
 
+![Design preview for the my team page project](./img/preview.png)
+
 ## Le challenge
 
 Voici ma solution au challenge : my team page sur Devchallenges.
