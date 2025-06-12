@@ -17,6 +17,6 @@ Lien vers le projet : https://aperbet56.github.io/my_team_page/
 - Flexbox
 - Page web responsive
 - Desktop first
-- Animations CSS (transition)
+- Animations CSS (transition, @keyframes)
 - Utilisation d'un normaliseur : le fichier normalize.css
 - Importation des polices "Poppins", "Montserrat", "PT serif"
