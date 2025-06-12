@@ -6,7 +6,7 @@ Voici ma solution au challenge : my team page sur Devchallenges.
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/my_team_page/
 
 ## Projet développé avec
 
